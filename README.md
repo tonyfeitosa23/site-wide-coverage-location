@@ -1,6 +1,6 @@
 <h1 align="center">Wide Coverage Location</h1>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h2>
+<h2>Esse foi outro projeto que eu realizei no <a href="https://rodolfomori.com.br/devclub">DevClub</a>.</h2>
 <h3>É um site designado para um aplicativo de transportes compartilhados.</h3>
 Utilizei as linguagens: 
   
