@@ -8,4 +8,4 @@ Utilizei as linguagens:
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css">
 </h3>
 
-<img src="">
+<img src="https://github.com/tonyfeitosa23/site-wide-coverage-location/blob/main/img/Wide%20Coverage.png?raw=true">
